@@ -1,6 +1,6 @@
 /**
  * Author : Alejandro Santos Garcia
- * Github repository : https://github.com/asantinos/apple-inventory-management
+ * Github repository : https://github.com/asantinos/apple-inventory-management-poo
  */
 
 import { listProducts } from "./listProducts.js";
